@@ -4,7 +4,7 @@
 [Ll]ogs/
 [Tt]emp/
 [Oo]bj/
-[Dd]ocs/
+# [Dd]ocs/
 # [Bb]uild/
 # [Bb]uilds/
 *.csproj
