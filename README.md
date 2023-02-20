@@ -1,16 +1,20 @@
-## Taxonomically almost Minecraft
+# Taxonomically almost Minecraft
 
-#### 特別謝謝
+###### - [github account](https://github.com/cet-t)
+
+### 特別謝謝
+
+---
 
 ###### お世話になったツール、サイト
 
 |1|雑な解説|
 |----|----|
-| [Unity](https://unity.com) |  ゲームエンジン  |
-| [VSCode](https://code.visualstudio.com) |  テキストエディタ <br> アプリ内のターミナルでコミット |
-| [Git Bash](https://gitforwindows.org) |  git, ディレクトリ作成用 |
-| [Github](https://github.com) |  いわずもがな <br> プロジェクトのバージョン管理 |
-| [GIMP](https://gimp.org) |  画像編集  <br> 無料のPhotoshop |
+| [Unity](https://unity.com) | ゲームエンジン |
+| [VSCode](https://code.visualstudio.com) | テキストエディタ <br> アプリ内のターミナルでコミット |
+| [Git Bash](https://gitforwindows.org) | git, ディレクトリ作成用 |
+| [Github](https://github.com) | いわずもがな <br> プロジェクトのバージョン管理 |
+| [GIMP](https://gimp.org) | 画像編集  <br> 無料のPhotoshop |
 
 |2|雑な解説2|
 |----|----|
