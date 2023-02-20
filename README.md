@@ -1,6 +1,10 @@
-## Taxonomically almost Minecraft
+# Taxonomically almost Minecraft
 
-#### 特別謝謝
+###### - [github account](https://github.com/cet-t)
+
+### 特別謝謝
+
+---
 
 ###### お世話になったツール、サイト
 
