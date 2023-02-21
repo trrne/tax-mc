@@ -1,6 +1,6 @@
 # Taxonomically almost Minecraft
 
-###### [branch change](https://github.com/trtrntr/tax-mc/tree/pdfs)
+###### [branch change](https://github.com/trtrntr/tax-mc/tree/plan)
 
 ### 特別謝謝
 
