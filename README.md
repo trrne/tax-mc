@@ -1,6 +1,9 @@
 # Taxonomically almost Minecraft
 
-###### - [github account](https://github.com/cet-t)
+### ブランチ
+
+###### [main](https://github.com/trtrntr/tax-mc/tree/main)
+###### [pdfs](https://github.com/trtrntr/tax-mc/tree/main)
 
 ### 特別謝謝
 
@@ -31,3 +34,5 @@
 | [効果音工房](https://umipla.com) | よくわからない |
 | [魔王魂](https://maou.audio) | 言わずと知れた超大手 |
 | [OtoLogic](https://otologic.jp) | 豊富ではある |
+
+###### - [github account](https://github.com/cet-t)
