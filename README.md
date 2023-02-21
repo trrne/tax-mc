@@ -1,9 +1,6 @@
 # Taxonomically almost Minecraft
 
-### ブランチ
-
-###### [main](https://github.com/trtrntr/tax-mc/tree/main)
-###### [pdfs](https://github.com/trtrntr/tax-mc/tree/pdfs)
+###### [branch change](https://github.com/trtrntr/tax-mc/tree/pdfs)
 
 ### 特別謝謝
 
